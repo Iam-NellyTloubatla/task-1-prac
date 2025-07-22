@@ -1,0 +1,1 @@
+The purpose of Shell is to enable the user to be able to use commands and translates it into readable information/ i have learned that i can use command lines to interact with the operating systems/ you can navigate through folders without using manual style.
